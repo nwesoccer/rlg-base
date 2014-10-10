@@ -1,0 +1,20 @@
+{
+  "name": "rlg-base",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nwesoccer/rlg-base",
+  "authors": [
+    "Nathan Edwards <nwesoccer@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.11.2",
+    "normalize.css": "~3.0.2"
+  }
+}
